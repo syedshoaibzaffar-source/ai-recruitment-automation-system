@@ -48,7 +48,7 @@ Resume Upload → AI Parsing → Data Structuring → Scoring → Decision → E
 ![Resume Parsing](Resume Parsing Workflow)
 
 ### 🔹 Scoring System Workflow
-![Scoring System](Scoring System Workflow)
+ scoring-system.png
 
 ### 🔹 Email Automation Workflow
 ![Email Automation](Email Automation Workflow)
