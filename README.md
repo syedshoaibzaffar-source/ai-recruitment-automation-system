@@ -1,34 +1,39 @@
 # AI-Powered Recruitment Automation System (Mini ATS)
 
-#  Overview
-This project is an AI-driven recruitment automation pipeline that scans resumes, extracts candidate data, evaluates profiles, and automates communication.
+## 🧠 Overview
+This project is an AI-driven recruitment automation pipeline that scans resumes, extracts candidate data, evaluates profiles, and automates communication with applicants.
+
+It replicates the core functionality of an Applicant Tracking System (ATS) using no-code tools.
 
 ---
 
-# Features
+## 🚀 Features
 
-## Resume Parsing
-- Reads PDF resumes from Google Drive  
-- Extracts structured data (name, role, experience, skills)
+### 📄 Resume Parsing
+- Automatically reads PDF resumes from Google Drive  
+- Extracts structured data (name, role, experience, skills, contact details)  
 
-## Candidate Database
-- Stores data in Google Sheets  
-- Auto-generates serial numbers  
+### 📊 Candidate Database
+- Stores all candidate data in Google Sheets  
+- Automatically structures information for easy tracking  
 
-## AI Scoring System
+### 🧠 AI Scoring System
 - Evaluates candidates based on job requirements  
-- Generates score (0–100)  
+- Generates a score (0–100)  
+- Classifies candidates as **Shortlisted** or **Rejected**  
 
-## Decision Automation
-- Shortlist / Reject classification  
+### ⚙️ Decision Automation
+- Eliminates manual screening  
+- Ensures consistent evaluation logic  
 
-## Automated Communication
+### 📧 Automated Communication
 - Sends interview emails to shortlisted candidates  
-- Sends rejection emails to others  
+- Sends rejection emails to non-selected candidates  
+- Maintains professional recruitment ethics  
 
 ---
 
-#  Tech Stack
+## ⚙️ Tech Stack
 - Zapier  
 - OpenAI  
 - Google Sheets  
@@ -37,34 +42,55 @@ This project is an AI-driven recruitment automation pipeline that scans resumes,
 
 ---
 
-#  Workflow
+## 🔄 Workflow
+
 Resume Upload → AI Parsing → Data Structuring → Scoring → Decision → Email Automation
 
 ---
 
-#  Screenshots
+## 📸 Screenshots
 
 ### 🔹 Resume Parsing Workflow
-![Resume Parsing](Resume Parsing Workflow.png)
+![Resume Parsing](resume-parser.png)
 
 ### 🔹 Scoring System Workflow
- scoring-system.png
+![Scoring System](scoring-system.png)
 
 ### 🔹 Email Automation Workflow
-![Email Automation](Email Automation Workflow)
+![Email Automation](email-automation.png)
 
 ### 🔹 Final Candidate Database
-![Database](Final Candidate Database)
+![Database](final-database.png)
 
 ---
 
-##  Impact
-- Reduced manual effort by 80%+  
-- Built scalable hiring workflow  
-- Improved candidate communication  
+## 📊 Impact
+- Reduced manual resume screening effort by **80%+**  
+- Built a scalable hiring workflow  
+- Ensured consistent candidate communication  
+- Eliminated repetitive recruitment tasks  
 
 ---
 
-## 📂 Project File
-Detailed documentation:
+## 📂 Project Documentation
+Detailed explanation available in:
+
 **Syed Zafiar - Project - AI Recruitment automation system.pdf**
+
+---
+
+## 💡 Key Learnings
+- AI-based workflow automation  
+- Prompt engineering for structured data extraction  
+- No-code system design  
+- Building real-world business solutions  
+
+---
+
+## 🚀 Future Enhancements
+- Interview scheduling automation  
+- Candidate ranking dashboard  
+- Multi-role hiring system  
+- Integration with ATS platforms  
+
+---
