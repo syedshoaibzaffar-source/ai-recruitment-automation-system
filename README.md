@@ -1,39 +1,39 @@
 # AI-Powered Recruitment Automation System (Mini ATS)
 
-## 🧠 Overview
+##  Overview
 This project is an AI-driven recruitment automation pipeline that scans resumes, extracts candidate data, evaluates profiles, and automates communication with applicants.
 
 It replicates the core functionality of an Applicant Tracking System (ATS) using no-code tools.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 📄 Resume Parsing
+###  Resume Parsing
 - Automatically reads PDF resumes from Google Drive  
 - Extracts structured data (name, role, experience, skills, contact details)  
 
-### 📊 Candidate Database
+###  Candidate Database
 - Stores all candidate data in Google Sheets  
 - Automatically structures information for easy tracking  
 
-### 🧠 AI Scoring System
+###  AI Scoring System
 - Evaluates candidates based on job requirements  
 - Generates a score (0–100)  
 - Classifies candidates as **Shortlisted** or **Rejected**  
 
-### ⚙️ Decision Automation
+###  Decision Automation
 - Eliminates manual screening  
 - Ensures consistent evaluation logic  
 
-### 📧 Automated Communication
+###  Automated Communication
 - Sends interview emails to shortlisted candidates  
 - Sends rejection emails to non-selected candidates  
 - Maintains professional recruitment ethics  
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 - Zapier  
 - OpenAI  
 - Google Sheets  
@@ -42,13 +42,13 @@ It replicates the core functionality of an Applicant Tracking System (ATS) using
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 Resume Upload → AI Parsing → Data Structuring → Scoring → Decision → Email Automation
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### 🔹 Resume Parsing Workflow
 ![Resume Parsing](resume-parser.png)
@@ -64,7 +64,7 @@ Resume Upload → AI Parsing → Data Structuring → Scoring → Decision → E
 
 ---
 
-## 📊 Impact
+##  Impact
 - Reduced manual resume screening effort by **80%+**  
 - Built a scalable hiring workflow  
 - Ensured consistent candidate communication  
@@ -72,14 +72,14 @@ Resume Upload → AI Parsing → Data Structuring → Scoring → Decision → E
 
 ---
 
-## 📂 Project Documentation
+##  Project Documentation
 Detailed explanation available in:
 
 **Syed Zafiar - Project - AI Recruitment automation system.pdf**
 
 ---
 
-## 💡 Key Learnings
+##  Key Learnings
 - AI-based workflow automation  
 - Prompt engineering for structured data extraction  
 - No-code system design  
@@ -87,7 +87,7 @@ Detailed explanation available in:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 - Interview scheduling automation  
 - Candidate ranking dashboard  
 - Multi-role hiring system  
